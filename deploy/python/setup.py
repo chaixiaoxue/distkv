@@ -23,7 +23,7 @@ class BinaryDistribution(Distribution):
 
 setup(
         name='dkv',
-        version='0.1.3',
+        version='0.1.2',
         description='A distributed key-value in-memory store system with table concept.',
         author='Qing Wang',
         author_email='kingchin1218@gmail.com',
